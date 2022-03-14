@@ -5,6 +5,10 @@ This code is part of an exploratory study for finding anomalies in the Chandra s
 ### experiment overview
 <img src="https://raw.githubusercontent.com/tlmakinen/xander/master/assets/images/xander-flowchart.png" alt="drawing" width="700"/>
 
+### toy model in Colab:
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eQF63XlHaZs0haBTgscGyy804yNn1sTt?usp=sharing)
+
 ### graphnets implementation
+The graph networks used to regress to summary statistics are implemented using the `jraph` and `dm-haiku` libraries. See the Colab demonstration for an implemented toy model. 
 
 
