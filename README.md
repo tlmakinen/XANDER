@@ -3,6 +3,7 @@ This code is part of an exploratory study for finding anomalies in the Chandra s
 # xander: X-ray ANomaly DEtectoR
 
 ### experiment overview
+<img src="https://raw.githubusercontent.com/tlmakinen/xander/master/assets/images/xander-flowchart.png" alt="drawing" width="700"/>
 
 ### graphnets implementation
 
