@@ -9,6 +9,9 @@ Since Chandra source catalog event files are of variable length, they pose a cha
 We first attempted a regression problem, in which 2D histograms of event files were fed into a regression neural network with the aim to predict event file variabilities. However, we found that this approach did 
 
 We tried this experiment initially, but found such histogramming schemes to be hard to interpret, especially for event files with a very small number of counts. Furthermore, choice of binning significantly impacted event file image representation and network extraction. Rather than rely on a hand-picked binning for our dataset, we turn to a more clever network implementation
+### graphnets implementation
+
+
 
 ### deepsets implementation description
 This choice of structure function, while not easily interpretable in the form of an image for regression or anomaly detection, *does* make event files permutation-invariant. We can equivalently think of our event files as *sets* (or graphs) of photon events and their corresponding times and positions. The raw event file is an order-dependent directed graph of these events. However, in the $(dt,d\epsilon)$ representation, the data are now order-invariant. DeepSets neural network architectures exploit this property and have been shown to be more efficient in regression and anomaly classification for unordered data.
