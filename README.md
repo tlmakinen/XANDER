@@ -10,5 +10,5 @@ This code is part of an exploratory study for finding anomalies in the Chandra s
 
 ### graphnets implementation
 The graph networks used to regress to summary statistics are implemented using the `jraph` and `dm-haiku` libraries. See the Colab demonstration for an implemented toy model. 
-
+<img src="https://raw.githubusercontent.com/tlmakinen/xander/master/assets/images/gnnregress.png" alt="drawing" width="700"/>
 
