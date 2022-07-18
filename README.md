@@ -12,3 +12,6 @@ This code is part of an exploratory study for finding anomalies in the Chandra s
 The graph networks used to regress to summary statistics are implemented using the `jraph` and `dm-haiku` libraries. See the Colab demonstration for an implemented toy model. 
 <img src="https://raw.githubusercontent.com/tlmakinen/xander/master/assets/images/gnnregress.png" alt="drawing" width="700"/>
 
+### graph network animation
+
+<iframe src="https://giphy.com/embed/qyVMnbeGkwJO8enqqw" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xander-xray-gnn-qyVMnbeGkwJO8enqqw">via GIPHY</a></p>
