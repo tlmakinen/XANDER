@@ -14,4 +14,4 @@ The graph networks used to regress to summary statistics are implemented using t
 
 ### graph network algorithm animation
 
-<img src="https://media1.giphy.com/media/qyVMnbeGkwJO8enqqw/giphy.gif?cid=790b76117bda8ebc917d894043d220659329f156c8b830d1&rid=giphy.gif" alt="drawing" width="700"/>
+<img src="https://media0.giphy.com/media/YXYTXVYAprPsOtRfph/giphy.gif?cid=790b76118b5c96cd68a94834455ea255bef67acfc9178476&rid=giphy.gif" alt="drawing" width="700"/>
